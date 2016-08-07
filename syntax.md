@@ -19,12 +19,12 @@
 ```
 如果能这样写代码，说明某些人追求的中文编码已经成功了，但可惜并不能这样写，我们要用英文这样写：
 
-```
+```jsx
 <Image>https://example.com/image.png</Image>
 ```
 上面的写法，只不过标识了图片在网络上的地址，如果我们要标识出图片的大小呢？估计得这么写：
 
-```
+```jsx
 <Image>
   <Source>https://example.com/image.png</Source>
   <Size>100</Size>
@@ -32,7 +32,7 @@
 ```
 当然，这种写法太繁琐了，写代码的人，通常都是懒的，能省一个字符是一个字符，
 
-```
+```jsx
 <Image source='https://example.com/image.png' size='100' />
 ```
 这样，我们的 JSX 语法就入门了。
