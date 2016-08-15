@@ -35,3 +35,4 @@ $ react-native run-ios
 ## 目录
 
 1. [语法入门](syntax.md)
+2. [Text 组件](text.md)

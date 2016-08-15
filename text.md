@@ -35,6 +35,7 @@
 ```js
 <Text numberOfLines={1}
   ellipsizeMode={'tail'}>a long long text here...</Text>
+```
 
 至于 React Native 没有提供的一些特性，还可以自己写组件来扩展。
 
