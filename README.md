@@ -36,3 +36,6 @@ $ react-native run-ios
 
 1. [语法入门](syntax.md)
 2. [Text 组件](text.md)
+3. [Image 组件](image.md)
+
+&copy; 2016，陈三 
